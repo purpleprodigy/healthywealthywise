@@ -1,0 +1,130 @@
+//
+// Color Variables
+//======================================
+
+// Base Colors
+$white: #fff;
+$black: #000;
+$red: #c3251d;
+$gray--lightest: #eee;
+$gray--lighter: #ddd;
+$gray--light: #ccc;
+$gray--medium-light: #999;
+$gray--medium: #777;
+$gray: #333;
+
+$primary: #3C13AF;
+$primary-dark: #432C83;
+$primary-darker: #230672;
+$primary-light: #6D48D7;
+$primary-lighter: #8A6ED7;
+
+$accent: #FFD600;
+$accent-dark: #A68B00;
+
+// Site Colors
+
+$base-color: $gray;
+
+$link-color: $primary-darker;
+$link--hover-color: $accent-dark;
+
+$body--background-color: $primary-lighter;
+
+// Elements
+$hr--border-color: $primary-lighter;
+
+// Form Elements
+$input--background-color: $white;
+$input--border-color: $primary-lighter;
+$input--color: $accent-dark;
+$input--focus-border-color: $primary-light;
+
+// Buttons
+$button--background-color: $primary-darker;
+$button--hover-background-color: $primary;
+$button-color: $white;
+$button--hover-color: $accent;
+$button--disabled-background-color: $gray--light;
+$button--disabled-color: $gray--medium;
+
+// Tables
+$table-body--border-color: $primary-light;
+$table-cell--border-color: $primary-light;
+
+// Header
+$site-title--link-color: $primary;
+$site-header--background-color: $white;
+$site-description--color: $accent-dark;
+
+// Navigation
+$nav--link-color: $primary;
+$nav--hover-color: $accent-dark;
+
+$submenu--border-color: $primary-light;
+$submenu--link-background-color: $white;
+
+$primary-nav--background-color: $white;
+$primary-nav--border-color: $primary-light;
+$primary-nav--link-color: $nav--link-color;
+
+$secondary-nav--background-color: $white;
+$secondary-nav--border-color: $primary-light;
+$secondary-nav--link-color: $nav--link-color;
+
+$js-nav--background-color: $white;
+$js-nav--hover-color: $black;
+$js-nav--focus-color: $accent-dark;
+
+$nav-toggle--background-color: $white;
+$nav-toggle-color: $primary-darker;
+
+$archive-pagination--background-color: $primary-darker;
+$archive-pagination-color: $white;
+$archive-pagination-hoverBackgroundColor: $primary;
+$archive-pagination--hover-color: $accent-dark;
+
+// Entry
+$entry-title--link-color: $primary;
+$entry-title--hover-color: $primary-light;
+
+$entry--background-color: $white;
+
+$entry-footer__meta--border-color: $primary-light;
+
+$entry-content__code--background-color: $primary-lighter;
+$entry-content__code--border-color: $primary-light;
+
+// Widgets
+$widget-title--link-color: $primary;
+$widget--background-color: $white;
+
+// Plugins
+$enews--color: $white;
+$enews--background-color: $gray;
+$enews__input--border-color: $gray;
+$enews__submit-button--background-color: $primary-darker;
+$enews__submit-button-color: $white;
+$enews__submit-button--hover-background-color: $primary-lighter;
+$enews__submit-button--hover-color: $accent;
+
+// Footer
+$site-footer--background-color: $primary;
+$site-footer--color: $white;
+$site-footer--hover-color: $accent;
+$site-footer--border-color: $primary-light;
+$footer-widgets--background-color: $white;
+
+// Comments
+$comments--background-color: $white;
+
+// General Components
+$archive-title--color: $primary-lighter;
+$breadcrumb--background-color: $white;
+$author-box--background-color: $white;
+$after-entry--background-color: $white;
+$archive-description--background-color: $white;
+
+// Gallery
+$gallery--border-color: $primary-light;
+$gallery--hover-border-color: $primary-dark;
